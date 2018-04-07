@@ -2147,6 +2147,14 @@
     "repo": "https://github.com/purescript/purescript-typelevel-prelude.git",
     "version": "v2.6.0"
   },
+  "undefinable": {
+    "dependencies": [
+      "functions",
+      "maybe"
+    ],
+    "repo": "https://github.com/ethul/purescript-undefinable.git",
+    "version": "v3.0.0"
+  },
   "unfoldable": {
     "dependencies": [
       "partial",
