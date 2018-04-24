@@ -1903,6 +1903,25 @@
     "repo": "https://github.com/justinwoo/purescript-simple-json.git",
     "version": "v2.0.1"
   },
+  "skald": {
+    "dependencies": [
+      "arrays",
+      "either",
+      "exceptions",
+      "foldable-traversable",
+      "generics",
+      "lists",
+      "maps",
+      "maybe",
+      "monoid",
+      "prelude",
+      "strings",
+      "transformers",
+      "tuples"
+    ],
+    "repo": "https://github.com/ianbollinger/purescript-skald.git",
+    "version": "v0.1.0"
+  },
   "smolder": {
     "dependencies": [
       "monoid",
